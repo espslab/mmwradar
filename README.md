@@ -1,3 +1,3 @@
-# Signal processing for mmWave radar
+# Signal Processing for mmWave Radar
 
 Coming soon ...
